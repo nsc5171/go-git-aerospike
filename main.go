@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/mcuadros/go-git-aerospike/aerospike"
-	"srcd.works/go-git.v4"
-	. "srcd.works/go-git.v4/_examples"
+	"github.com/go-git/go-git/v5"
+	. "github.com/go-git/go-git/v5/_examples"
 
 	driver "github.com/aerospike/aerospike-client-go"
 )
