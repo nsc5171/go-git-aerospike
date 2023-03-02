@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mcuadros/go-git-aerospike/aerospike"
+	"github.com/nsc5171/go-git-aerospike/aerospike"
 	"github.com/go-git/go-git/v5"
 	. "github.com/go-git/go-git/v5/_examples"
 
